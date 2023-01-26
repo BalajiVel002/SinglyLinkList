@@ -1,9 +1,11 @@
+//Singly link list
 #include<stdio.h>
 #include<stdlib.h>
 void create();
 void insert();
 void delete();
 void display();
+
 struct node
 {
     int data;
